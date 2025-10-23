@@ -1,1 +1,1 @@
-Hi, my name is Rohan Wadhwa and I am interested in Machine Learning. I will post updates on any projects that I am currently working on. I am open to collaborate with others. 
+Hi, my name is Rohan Wadhwa and I am interested in Machine Learning. I have worked on various projects in the past that focused on areas such as Computer Vision and Convolutional Neural Networks. I am always interested in diving into new areas of AI and collaborating with others.  
