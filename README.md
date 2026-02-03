@@ -1,1 +1,3 @@
-Hi, my name is Rohan Wadhwa and I am interested in Machine Learning. I have worked on various projects in the past that focused on areas such as Computer Vision and Convolutional Neural Networks. I am always interested in diving into new areas of AI and collaborating with others.  
+CS undergrad @ UMD | Applied ML & AI systems | CV, LLM agents, latency-aware pipelines, data preprocessing
+
+
